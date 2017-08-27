@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch1/akkademy-db-scala/.idea/modules/akkademy-db-scala.iml" filepath="$PROJECT_DIR$/ch1/akkademy-db-scala/.idea/modules/akkademy-db-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch1/akkademy-db-scala/.idea/modules/akkademy-db-scala-build.iml" filepath="$PROJECT_DIR$/ch1/akkademy-db-scala/.idea/modules/akkademy-db-scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning-akka.iml" filepath="$PROJECT_DIR$/.idea/learning-akka.iml" />
+    </modules>
+  </component>
+</project>

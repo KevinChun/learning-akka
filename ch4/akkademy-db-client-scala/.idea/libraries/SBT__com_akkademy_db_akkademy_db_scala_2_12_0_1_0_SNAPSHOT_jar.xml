@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.akkademy-db:akkademy-db-scala_2.12:0.1.0-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.akkademy-db/akkademy-db-scala_2.12/0.1.0-SNAPSHOT/jars/akkademy-db-scala_2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.akkademy-db/akkademy-db-scala_2.12/0.1.0-SNAPSHOT/srcs/akkademy-db-scala_2.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

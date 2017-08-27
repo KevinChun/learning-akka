@@ -1,0 +1,7 @@
+[0m[[31merror[0m] [0mTest com.akkademy.[33mTellTest[0m.[31mitShouldParseArticleTest[0m failed: java.lang.[31mIllegalArgumentException[0m: erased Creator types are unsupported, use Props.create(actorClass, creator) instead, took 0.011 sec[0m
+[0m[[31merror[0m] [0m    at akka.actor.AbstractProps.create(AbstractProps.scala:57)[0m
+[0m[[31merror[0m] [0m    at akka.actor.AbstractProps.create$(AbstractProps.scala:42)[0m
+[0m[[31merror[0m] [0m    at akka.actor.Props$.create(Props.scala:22)[0m
+[0m[[31merror[0m] [0m    at akka.actor.Props.create(Props.scala)[0m
+[0m[[31merror[0m] [0m    at com.akkademy.TellTest.<init>([35mTellTest.java[0m:[33m23[0m)[0m
+[0m[[31merror[0m] [0m    ...[0m

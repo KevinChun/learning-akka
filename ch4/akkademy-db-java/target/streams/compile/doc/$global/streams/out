@@ -1,0 +1,42 @@
+[0m[[0minfo[0m] [0mMain Java API documentation to /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api...[0m
+[0m[[0mdebug[0m] [0mAttempting to call javadoc directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javadoc.Main not found with appropriate method signature; forking javadoc instead[0m
+[0m[[0mdebug[0m] [0mForking javadoc: javadoc @/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt_ee003ae/argfile[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/AkkademyDb.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/Main.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Connected.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/GetRequest.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/KeyNotFoundException.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Request.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/SetRequest.java...[0m
+[0m[[0minfo[0m] [0mConstructing Javadoc information...[0m
+[0m[[0minfo[0m] [0mStandard Doclet version 1.8.0_131[0m
+[0m[[0minfo[0m] [0mBuilding tree for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/messages/Connected.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/messages/GetRequest.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/messages/KeyNotFoundException.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/messages/Request.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/messages/SetRequest.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/AkkademyDb.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/Main.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/overview-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/package-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/package-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/package-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/messages/package-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/messages/package-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/com/akkademy/messages/package-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/constant-values.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/serialized-form.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/overview-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/index-all.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/deprecated-list.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all classes...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/allclasses-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/allclasses-noframe.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/index.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/overview-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/api/help-doc.html...[0m
+[0m[[0mdebug[0m] [0mjavadoc returned exit code: 0[0m
+[0m[[0minfo[0m] [0mMain Java API documentation successful.[0m

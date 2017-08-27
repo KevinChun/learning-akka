@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mSClientIntegrationSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32makkademyDbClient[0m[0m
+[0m[[0minfo[0m] [0m[31m- should set a value *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  akka.pattern.AskTimeoutException: Ask timed out on [ActorSelection[Anchor(akka.tcp://akkademy@127.0.0.1:2552/), Path(/user/akkademy-db)]] after [2000 ms]. Sender[null] sent message of type "com.akkademy.messages.GetRequest".[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.PromiseActorRef$.$anonfun$apply$1(AskSupport.scala:601)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.actor.Scheduler$$anon$4.run(Scheduler.scala:140)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:864)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:109)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:103)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:862)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.actor.LightArrayRevolverScheduler$TaskHolder.executeTask(LightArrayRevolverScheduler.scala:328)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.actor.LightArrayRevolverScheduler$$anon$4.executeBucket$1(LightArrayRevolverScheduler.scala:279)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.actor.LightArrayRevolverScheduler$$anon$4.nextTick(LightArrayRevolverScheduler.scala:283)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.actor.LightArrayRevolverScheduler$$anon$4.run(LightArrayRevolverScheduler.scala:235)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(pong.PongActorTest, com.novocode.junit.JUnitFingerprint@309a7c69, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 10, Failed 0, Errors 0, Passed 10[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	pong.PongActorTest[0m

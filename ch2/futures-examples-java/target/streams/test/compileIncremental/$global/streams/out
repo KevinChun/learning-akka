@@ -1,0 +1,38 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Java source to /Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/target/scala-2.12/test-classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@66705ff9 directly...[0m
+[0m[[0minfo[0m] [0m/Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java: /Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java uses unchecked or unsafe operations.[0m
+[0m[[0minfo[0m] [0m/Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java: Recompile with -Xlint:unchecked for details.[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.176598442 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.021326609 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.198748163 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, shouldRecoverOnErrorAsync, wait, system, equals, actorRef, PongActorTest, shouldPrintErrorToConsole, notifyAll, shouldEffectOnError, shouldPrintToConsole, <init>, shouldReplyToUnknownMessageWithFailure, shouldChainTogetherMultipleOperations, toString, get, getClass, shouldTransform, shouldReplyToPingWithPong, shouldTransformAsync, shouldRecoverOnError, hashCode, askPong.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Name hashing optimization doesn't apply to non-Scala dependency: /Users/hominchun/ex_ws/learning-akka/ch2/futures-examples-java/src/test/java/pong/PongActorTest.java[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

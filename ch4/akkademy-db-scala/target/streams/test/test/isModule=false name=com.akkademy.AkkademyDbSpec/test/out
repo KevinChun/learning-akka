@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mAkkademyDbSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32makkademyDb[0m[0m
+[0m[[0minfo[0m] [0m[32m  given SetRequest[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should place key/value into map[0m[0m
+[0m[[0minfo[0m] [0m[32m  given List[SetRequest][0m[0m
+[0m[[0minfo[0m] [0m[32m  - should place key/values into map[0m[0m

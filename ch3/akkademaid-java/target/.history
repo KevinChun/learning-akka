@@ -1,0 +1,58 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+reload
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+update
+test
+compile
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+compile
+all {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/test:products
+update
+test
+clear
+test
+reload
+compile
+clean
+reload
+compile
+update
+test
+compile
+reload
+compile
+reload
+clean
+compile
+tasks
+update
+compile
+clean
+update
+compile
+all {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/test:products
+libraryDependencies
+tasks -all
+tasks
+clean
+compile
+update
+compile
+all {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/test:products
+compile
+test
+clean
+compile
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+compile
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+all {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/test:products
+compile
+all {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/test:products
+compile
+all {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/test:products
+compile
+test
+all {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/test:products
+test
+all {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch3/akkademaid-java/}akkademaid-java/test:products

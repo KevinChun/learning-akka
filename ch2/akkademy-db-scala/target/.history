@@ -1,0 +1,21 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+compile
+test
+publishLocal
+compile
+run
+test
+publishLocal
+tasks
+update
+publishLocal
+clean
+publish
+publishLocal
+publishLocal --help
+help
+help; publishLocal
+help publishLocal
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+clean
+publishLocal

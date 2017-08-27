@@ -1,0 +1,4 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+all {file:/Users/hominchun/ex_ws/learning-akka/ch1/akkademy-db-scala/}akkademy-db-scala/products {file:/Users/hominchun/ex_ws/learning-akka/ch1/akkademy-db-scala/}akkademy-db-scala/test:products
+test
+all {file:/Users/hominchun/ex_ws/learning-akka/ch1/akkademy-db-scala/}akkademy-db-scala/products {file:/Users/hominchun/ex_ws/learning-akka/ch1/akkademy-db-scala/}akkademy-db-scala/test:products

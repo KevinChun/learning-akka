@@ -1,0 +1,23 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+reload
+compile
+test
+update
+publishLocal
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/_k/hc4mb0ms5s7bdjln12_v5nc00000gn/T/sbt-structure.xml
+compile
+publishLocal
+reload
+update
+test
+reload
+update
+compile
+all {file:/Users/hominchun/ex_ws/learning-akka/ch2/akkademy-db-java/}akkademy-db-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch2/akkademy-db-java/}akkademy-db-java/test:products
+update
+test
+all {file:/Users/hominchun/ex_ws/learning-akka/ch2/akkademy-db-java/}akkademy-db-java/products {file:/Users/hominchun/ex_ws/learning-akka/ch2/akkademy-db-java/}akkademy-db-java/test:products
+compile
+publishLocal
+compile
+publishLocal

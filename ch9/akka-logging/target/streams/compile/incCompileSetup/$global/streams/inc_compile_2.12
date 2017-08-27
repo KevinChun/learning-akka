@@ -1,0 +1,264 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/ApplicationMain$.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/ApplicationMain$delayedInit$body.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/ApplicationMain.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$$anonfun$receive$1.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$Initialize$.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$PingMessage$.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$PingMessage.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor$$anonfun$receive$1.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor$.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor$PongMessage$.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor$PongMessage.class
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor.class
+binary dependencies:
+9 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain$
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain$delayedInit$body
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$$anonfun$receive$1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$Initialize$
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$PingMessage
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$PingMessage$
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$$anonfun$receive$1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$PongMessage
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$PongMessage$
+used names:
+128 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> !
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> ActorSystem
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> App
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> ApplicationMain
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> LoggingActor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> actor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> actorOf
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> actorRef2Scala
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> akka
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> apply
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> example
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> pingActor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> props
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> qual$1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> qual$2
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> qual$3
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> system
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> terminate
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$2
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$3
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$4
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$5
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$6
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> &&
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ==
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> A1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> AbstractFunction1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Actor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ActorLogging
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> AnyRef
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> B1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ClassTag
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Function1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Initialize
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> LoggingActor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> None
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Option
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> PingMessage
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> PongActor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Product
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Props
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ScalaRunTime
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Serializable
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> String
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> _hashCode
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> _root_
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> _toString
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> actor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> actorOf
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> akka
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> apply
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> asInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> context
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> counter
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> eq
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> example
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> info
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> isInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> log
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> materializeClassTag
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> pongActor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> props
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> reflect
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> runtime
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> text
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> toString
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> typedProductIterator
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> unchecked
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ||
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> !
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> &&
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ==
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> A1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> AbstractFunction1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Actor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ActorLogging
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> AnyRef
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> B1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ClassTag
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Function1
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> None
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Option
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> PongActor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> PongMessage
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Product
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Props
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ScalaRunTime
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Serializable
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> String
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> _hashCode
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> _root_
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> _toString
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> actor
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> actorRef2Scala
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> akka
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> apply
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> asInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> eq
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> example
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> info
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> isInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> log
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> materializeClassTag
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> props
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> reflect
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> runtime
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> self
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> sender
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> text
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> toString
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> typedProductIterator
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> unchecked
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ||
+product stamps:
+14 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/ApplicationMain$.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/ApplicationMain$delayedInit$body.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/ApplicationMain.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$$anonfun$receive$1.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$Initialize$.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$PingMessage$.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor$PingMessage.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/LoggingActor.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor$$anonfun$receive$1.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor$.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor$PongMessage$.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor$PongMessage.class -> lastModified(1503847191000)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/target/scala-2.12/classes/com/example/PongActor.class -> lastModified(1503847191000)
+source stamps:
+3 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> hash(226c274590d69c0c7b9926fdf5c4c495af420d27)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> hash(036ca16307014d0a1d25cdd2acea466e5da6f4c0)
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> hash(885c5d1880f2ae6b1a2dbfc50331299f97e80e18)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar -> lastModified(1502371060000)
+/Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar -> akka.actor.ActorLogging
+/Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.Serializable
+internal apis:
+3 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBTZ+7CAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJyj7id0AAZub3RpZnlzcQB+AAy7Lrh2dAAEd2FpdHNxAH4ADERyjFp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMyxd4N3QABnN5c3RlbXNxAH4ADP2PMqR0AAZlcXVhbHNzcQB+AAwGRSrzdAAMYXNJbnN0YW5jZU9mc3EAfgAMeSd9InQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMoDdb6XQADHN5bmNocm9uaXplZHNxAH4ADFJadq90AA0kaXNJbnN0YW5jZU9mc3EAfgAM7xQLYXQABG1haW5zcQB+AAzUISuodAAJbm90aWZ5QWxsc3EAfgAMZVUlynQADGlzSW5zdGFuY2VPZnNxAH4ADMfquQ10AAI9PXNxAH4ADALsmSR0AA9BcHBsaWNhdGlvbk1haW5zcQB+AAxhfWXBdAAFY2xvbmVzcQB+AAyG7iqcdAAGJGluaXQkc3EAfgAMOMKnx3QACHRvU3RyaW5nc3EAfgAMa8nspnQABGFyZ3NzcQB+AAzMcvhodAACIT1zcQB+AAwso2GTdAAIZ2V0Q2xhc3NzcQB+AAyXX77UdAACbmVzcQB+AAy4WKDCdAAJcGluZ0FjdG9yc3EAfgAMB4QK1HQAAmVxc3EAfgAM0yvRlnQAC2RlbGF5ZWRJbml0c3EAfgAMPMERNXQAAiMjc3EAfgAMcJ4CDnQACGZpbmFsaXplc3EAfgAMSzcdlHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAG2NvbS5leGFtcGxlLkFwcGxpY2F0aW9uTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGxzcQB+AGd1cQB+AEgAAAAAc3EAfgBndXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB2eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGt0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aa3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkHNxAH4AWgBxAH4AIXVxAH4AXQAAAABzcQB+AIN0AARVbml0cQB+AIl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB2eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBgdAAFUGxhaW5xAH4AMXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aa3NxAH4Ag3QABUFycmF5cQB+AIl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ag3QABlN0cmluZ3NxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAAEbGFuZ3EAfgCUc3EAfgBndXEAfgCrAAAABHNxAH4Ag3QAA0FwcHEAfgCJc3EAfgCDdAALRGVsYXllZEluaXRxAH4AiXNxAH4Ag3QABk9iamVjdHEAfgCvc3EAfgCDdAADQW55cQB+AIl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb20uZXhhbXBsZXNxAH4AwnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXiRHCEl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPL1VzZXJzL2hvbWluY2h1bi9leF93cy9sZWFybmluZy1ha2thL2NoOS9ha2thLWxvZ2dpbmcvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCJsJ0WQ1pwMe5km/fXExJWvQg0n
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHClHAY7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwcJ672HQABHNlbGZzcQB+AAtiFtPEdAAHY29udGV4dHVxAH4ACQAAADZzcQB+AAtvzotJdAAGbm90aWZ5c3EAfgALrF+bsnQAB3VuYXBwbHlzcQB+AAvuidI0dAAHUmVjZWl2ZXNxAH4AC8VUzwh0AAtQaW5nTWVzc2FnZXNxAH4AC58nbqV0AAR3YWl0c3EAfgALl+GS0nQADSRhc0luc3RhbmNlT2ZzcQB+AAv7RZ7VdAAHY29tcG9zZXNxAH4AC/QRr7R0AAxwcm9kdWN0QXJpdHlzcQB+AAuu+KLRdAAGZXF1YWxzc3EAfgALGEpFM3QADGFzSW5zdGFuY2VPZnNxAH4ACwv0DgZ0AAxMb2dnaW5nQWN0b3JzcQB+AAvgdUQfdAAMc3luY2hyb25pemVkc3EAfgALkfgTDXQADSRpc0luc3RhbmNlT2ZzcQB+AAvQcgZEdAAHYW5kVGhlbnNxAH4AC3oztHB0AAdyZWNlaXZlc3EAfgALDDLuZnQACnByZVJlc3RhcnRzcQB+AAuFALWmdAANYXJvdW5kUmVjZWl2ZXNxAH4AC3Luy2R0AAR0ZXh0c3EAfgALmD93CHQACGNhbkVxdWFsc3EAfgALXuDJF3QAC3Bvc3RSZXN0YXJ0c3EAfgALz6p943QACHBvc3RTdG9wc3EAfgALQYM5GHQADXByb2R1Y3RQcmVmaXhzcQB+AAsZRoG8dAAJbm90aWZ5QWxsc3EAfgALV7Zb/XQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALwGzE43QADGlzSW5zdGFuY2VPZnNxAH4AC/xmnc50ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALR4+mi3QADmFyb3VuZFBvc3RTdG9wc3EAfgALk9ZfgHQACkluaXRpYWxpemVzcQB+AAvNdlcCdAAGPGluaXQ+c3EAfgAL9mS7IHQACHByZVN0YXJ0c3EAfgAL1rTTP3QACXVuaGFuZGxlZHNxAH4AC8W+Q1Z0AAVhcHBseXNxAH4AC1CX3hl0AAI9PXNxAH4ACy2h1sF0AAVjbG9uZXNxAH4ACz932cJ0AAYkaW5pdCRzcQB+AAu3m0V5dAAEY29weXNxAH4AC9J7Ctx0AAZzZW5kZXJzcQB+AAt+oTd8dAAHY291bnRlcnNxAH4AC/I8gfV0AAh0b1N0cmluZ3NxAH4ACxDtSGF0AAIhPXNxAH4AC++ReYZ0AAhnZXRDbGFzc3NxAH4ACwA6qDt0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC9rL2Ll0AAVwcm9wc3NxAH4AC8fvROl0AAJuZXNxAH4AC63Jkbt0AAlwb25nQWN0b3JzcQB+AAtP1mDsdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALXVDVDnQAAmVxc3EAfgALBCu70HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC+ZfSD50AANsb2dzcQB+AAvw5yO5dAACIyNzcQB+AAuNkkxYdAAIZmluYWxpemVzcQB+AAtnZkxtdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAv78EOedAAIaGFzaENvZGVzcQB+AAuwmrCXdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAYY29tLmV4YW1wbGUuTG9nZ2luZ0FjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J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
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA/PtmRAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyJ1KInQABHNlbGZzcQB+AAuJA9BpdAAHY29udGV4dHVxAH4ACQAAADNzcQB+AAtsBzmhdAAGbm90aWZ5c3EAfgALUBjzzXQAB3VuYXBwbHlzcQB+AAsQ8PfxdAAHUmVjZWl2ZXNxAH4AC8UK9T50AAR3YWl0c3EAfgALf5i253QADSRhc0luc3RhbmNlT2ZzcQB+AAv2qnRadAAHY29tcG9zZXNxAH4AC4CJ1Xl0AAxwcm9kdWN0QXJpdHlzcQB+AAtjCTY7dAAGZXF1YWxzc3EAfgAL+jdK6nQAC1BvbmdNZXNzYWdlc3EAfgALEfvH3XQADGFzSW5zdGFuY2VPZnNxAH4AC87F6zV0AAxzeW5jaHJvbml6ZWRzcQB+AAs3chU8dAANJGlzSW5zdGFuY2VPZnNxAH4AC8iNhjV0AAdhbmRUaGVuc3EAfgALTx2nFXQAB3JlY2VpdmVzcQB+AAsIAZaldAAKcHJlUmVzdGFydHNxAH4ACwYs7nB0AA1hcm91bmRSZWNlaXZlc3EAfgALoM3JmnQABHRleHRzcQB+AAsLZI8kdAAIY2FuRXF1YWxzcQB+AAtnCJSpdAALcG9zdFJlc3RhcnRzcQB+AAuz1YbLdAAIcG9zdFN0b3BzcQB+AAtnTWqXdAANcHJvZHVjdFByZWZpeHNxAH4AC5Er+PZ0AAlub3RpZnlBbGxzcQB+AAuqCgBpdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAthDukWdAAMaXNJbnN0YW5jZU9mc3EAfgAL4Lo4QXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuwcsRTdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvHoRmLdAAGPGluaXQ+c3EAfgALhKPQpHQACHByZVN0YXJ0c3EAfgALJd6c6nQACXVuaGFuZGxlZHNxAH4ACw4US4V0AAVhcHBseXNxAH4AC8JKIFF0AAI9PXNxAH4AC7TWyTJ0AAVjbG9uZXNxAH4AC79ZEIx0AAYkaW5pdCRzcQB+AAsrBTRedAAEY29weXNxAH4AC9+lozN0AAZzZW5kZXJzcQB+AAuJx+DRdAAIdG9TdHJpbmdzcQB+AAvZIWFZdAACIT1zcQB+AAsMG8NNdAAIZ2V0Q2xhc3NzcQB+AAsVS0kWdAAOY29weSRkZWZhdWx0JDFzcQB+AAueU2nZdAAFcHJvcHNzcQB+AAsHek5QdAAJUG9uZ0FjdG9yc3EAfgALPiGkYnQAAm5lc3EAfgALVs27CHQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC+9TUWd0AAJlcXNxAH4AC/m+W/l0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAslrLOodAADbG9nc3EAfgALLeQJ43QAAiMjc3EAfgAL4AyGPHQACGZpbmFsaXplc3EAfgALkH86bHQADnByb2R1Y3RFbGVtZW50c3EAfgALFUyJHHQACGhhc2hDb2Rlc3EAfgALI/vtoXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AgXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFWNvbS5leGFtcGxlLlBvbmdBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIFMAAlpbmhlcml0ZWRxAH4AgUwAB3BhcmVudHNxAH4AgXhxAH4AnnNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCddAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgC2dAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4At3NxAH4AqnQABUFjdG9ycQB+ALBzcQB+AKp0AAZPYmplY3RzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2dAAEamF2YXNxAH4AtnQABGxhbmdxAH4AvXNxAH4AqnQAA0FueXNxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZ0AAVzY2FsYXEAfgC9c3EAfgB+cQB+AIt1cQB+AIwAAAAAc3EAfgCOAHQAFWNvbS5leGFtcGxlLlBvbmdBY3RvcnVxAH4AkQAAAAB+cQB+AJN0AAZNb2R1bGV1cQB+AJcAAAAAc3EAfgCZcQB+AJ9zcQB+AJlzcQB+AKFzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AqAAAAAJzcQB+AKpxAH4AwXNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4AxnNxAH4AtnEAfgDIcQB+AL1zcQB+AKpxAH4AynNxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZxAH4Az3EAfgC9dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAALY29tLmV4YW1wbGVzcQB+AO50AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV4kRwhJdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATy9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDkvYWtrYS1sb2dnaW5nL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIXF0YgPKuaxotv8UDMSmfl+gOGA==
+external apis:
+0 items
+source infos:
+3 items
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> 
+AAAAAAAAAAA=
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> 
+AAAAAAAAAAA=
+/Users/hominchun/ex_ws/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXiRHCEl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDkvYWtrYS1sb2dnaW5nL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

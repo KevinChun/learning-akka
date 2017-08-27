@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mAskAndTellDemoSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mask demo[0m[0m
+[0m[[0minfo[0m] [0m[32m- should provide parsed article[0m[0m
+[0m[[0minfo[0m] [0m[32m- should provide cached article[0m[0m
+[0m[[0minfo[0m] [0m[32mtell demo[0m[0m
+[0m[[0minfo[0m] [0m[32m- should provide parsed article[0m[0m
+[0m[[0minfo[0m] [0m[32m- should provide cached article[0m[0m

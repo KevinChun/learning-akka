@@ -1,0 +1,30 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/classes/com/akkademy/AkkademyDb.class, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/classes/com/akkademy/messages/SetRequest.class, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/classes/com/akkademy/messages/KeyNotFoundException.class, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/classes/com/akkademy/messages/Connected.class, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/classes/com/akkademy/messages/Request.class, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/classes/com/akkademy/Main.class, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/classes/com/akkademy/messages/GetRequest.class)[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set(/Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/AkkademyDb.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/GetRequest.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/KeyNotFoundException.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/Main.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/SetRequest.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Connected.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Request.java)[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/AkkademyDb.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/GetRequest.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/KeyNotFoundException.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/Main.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/SetRequest.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Connected.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Request.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/AkkademyDb.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/GetRequest.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/KeyNotFoundException.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/Main.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/SetRequest.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Connected.java, /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Request.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 7 Java sources to /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@4ec4b508 directly...[0m
+[0m[[0minfo[0m] [0m/Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/AkkademyDb.java: /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/AkkademyDb.java uses unchecked or unsafe operations.[0m
+[0m[[0minfo[0m] [0m/Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/AkkademyDb.java: Recompile with -Xlint:unchecked for details.[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.22886226 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.116390172 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.34817048 s[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

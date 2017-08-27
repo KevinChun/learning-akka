@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mScalaAskExamplesTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mPong actor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should respond with Pong[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail on unknown message[0m[0m
+[0m[[0minfo[0m] [0m[32mFutureExamples[0m[0m
+[0m[[0minfo[0m] [0m[32m- should print to console[0m[0m
+[0m[[0minfo[0m] [0m[32m- should transform[0m[0m
+[0m[[0minfo[0m] [0m[32m- should transform async[0m[0m
+[0m[[0minfo[0m] [0m[32m- should effect on failure[0m[0m
+[0m[[0minfo[0m] [0m[32m- should effect on failure (with assertion)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should recover on failure[0m[0m
+[0m[[0minfo[0m] [0m[32m- should recover on failure async[0m[0m
+[0m[[0minfo[0m] [0m[32m- should chain together multiple operations[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be handled with for comprehension[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle a list of futures[0m[0m

@@ -1,0 +1,258 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/Chatroom$$anonfun$receive$1.class
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/Chatroom.class
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/JoinChatroom$.class
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/JoinChatroom.class
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/PostToChatroom$.class
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/PostToChatroom.class
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/UserRef$.class
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/UserRef.class
+binary dependencies:
+8 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> /Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+8 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> com.akkachat.Chatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> com.akkachat.Chatroom$$anonfun$receive$1
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> com.akkachat.JoinChatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> com.akkachat.JoinChatroom$
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> com.akkachat.PostToChatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> com.akkachat.PostToChatroom$
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> com.akkachat.UserRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> com.akkachat.UserRef$
+used names:
+141 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> !
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> :+
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> A
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> A1
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> AbstractPartialFunction
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Actor
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> ActorRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Any
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> B
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> B1
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Boolean
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> CanBuildFrom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Chatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Coll
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Function1
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> JoinChatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Nothing
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Object
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> PostToChatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Receive
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> ScalaActorRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Seq
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> T0
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> That
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> Unit
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> UserRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> actor
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> actorRef2Scala
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> akka
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> akkachat
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> asInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> canBuildFrom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> chatHistory
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> collection
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> empty
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> isInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> joinChatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> joinedUsers
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> joinedUsers_=
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> println
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> self
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> sender
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> unchecked
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> userRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> &&
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> ==
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> A
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> AbstractFunction1
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> AbstractFunction2
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Any
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> AnyRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Boolean
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> IndexOutOfBoundsException
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Int
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Iterator
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> JoinChatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> None
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Nothing
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Object
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Option
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> PostToChatroom
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Product
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> ScalaRunTime
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Serializable
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Some
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> String
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> T
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> T0
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> T1
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> T2
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> Tuple2
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> UserRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> _hashCode
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> _root_
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> _toString
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> akkachat
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> asInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> eq
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> isInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> line
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> runtime
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> toString
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> typedProductIterator
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> userRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> username
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> ||
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> &&
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> ==
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> A
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> AbstractFunction2
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> ActorRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Any
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> AnyRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Boolean
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> IndexOutOfBoundsException
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Int
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Iterator
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> None
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Nothing
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Object
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Option
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Product
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> ScalaRunTime
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Serializable
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Some
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> String
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> T
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> T0
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> T1
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> T2
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> Tuple2
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> UserRef
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> _hashCode
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> _root_
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> _toString
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> actor
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> akka
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> akkachat
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> asInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> eq
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> isInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> name
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> runtime
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> toString
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> typedProductIterator
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> ||
+product stamps:
+8 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/Chatroom$$anonfun$receive$1.class -> lastModified(1503843982000)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/Chatroom.class -> lastModified(1503843982000)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/JoinChatroom$.class -> lastModified(1503843982000)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/JoinChatroom.class -> lastModified(1503843982000)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/PostToChatroom$.class -> lastModified(1503843982000)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/PostToChatroom.class -> lastModified(1503843982000)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/UserRef$.class -> lastModified(1503843982000)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/target/scala-2.12/classes/com/akkachat/UserRef.class -> lastModified(1503843982000)
+source stamps:
+3 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> hash(4e6d858cfdd2e9b160f1a541c4d77075409a17a2)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> hash(187a2c41a27fa1b4cd6fefee7d8dd524332401d3)
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> hash(6866aa37ea37b9d689eb0a2cde287c19e6eb2005)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar -> lastModified(1502371060000)
+/Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar -> akka.actor.ActorRef$
+/Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.Product
+internal apis:
+3 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwD7MRxwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCMyOF6dAAEc2VsZnNxAH4AC3jXTmN0AAdjb250ZXh0dXEAfgAJAAAAJ3NxAH4AC96J11t0AAZub3RpZnlzcQB+AAtnJ33tdAAHUmVjZWl2ZXNxAH4AC7jdWJ90AAR3YWl0c3EAfgALHqiQhXQADGpvaW5DaGF0cm9vbXNxAH4AC/P0Dul0AA0kYXNJbnN0YW5jZU9mc3EAfgALqp3nKnQABmVxdWFsc3NxAH4AC3noXlN0AAxhc0luc3RhbmNlT2ZzcQB+AAsNhQEvdAALY2hhdEhpc3RvcnlzcQB+AAs+uYeMdAAMc3luY2hyb25pemVkc3EAfgALXEog0nQADSRpc0luc3RhbmNlT2ZzcQB+AAui1fDTdAAHcmVjZWl2ZXNxAH4AC5Web9N0AApwcmVSZXN0YXJ0c3EAfgALTJEmW3QADWFyb3VuZFJlY2VpdmVzcQB+AAtJmYnTdAALcG9zdFJlc3RhcnRzcQB+AAtQ4BFPdAAIcG9zdFN0b3BzcQB+AAu25xwOdAAJbm90aWZ5QWxsc3EAfgALUmcrDHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALnCCcE3QADGlzSW5zdGFuY2VPZnNxAH4AC+Dj7eJ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALW5lxy3QADmFyb3VuZFBvc3RTdG9wc3EAfgALwtBRp3QABjxpbml0PnNxAH4AC52/p/x0AAhwcmVTdGFydHNxAH4AC1xHPUF0AAl1bmhhbmRsZWRzcQB+AAueEPXCdAACPT1zcQB+AAum4pQcdAAFY2xvbmVzcQB+AAu2gPzHdAAGJGluaXQkc3EAfgALrEGqQnQACENoYXRyb29tc3EAfgALbPO+cHQABnNlbmRlcnNxAH4AC7VrN9l0AAh0b1N0cmluZ3NxAH4ACy9Y38d0AAIhPXNxAH4AC7IXnOd0AAhnZXRDbGFzc3NxAH4AC9YYV5R0AAJuZXNxAH4AC5L7oEZ0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtv/tHOdAACZXFzcQB+AAujwr3rdAACIyNzcQB+AAt0DRb+dAAIZmluYWxpemVzcQB+AAt3fkntdAAIaGFzaENvZGVzcQB+AAuvWZ7jdAAOYXJvdW5kUHJlU3RhcnRzcQB+AAvc0CbcdAALam9pbmVkVXNlcnNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVY29tLmFra2FjaGF0LkNoYXRyb29tdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCGc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AnnQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ9zcQB+AJJ0AAZPYmplY3RzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCedAAEamF2YXNxAH4AnnQABGxhbmdxAH4ApXNxAH4AknQAA0FueXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ50AAVzY2FsYXEAfgCldXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAADY29tc3EAfgC4dAAMY29tLmFra2FjaGF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeJBYLXXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFIvVXNlcnMvaG9taW5jaHVuL2V4X3dzL2xlYXJuaW5nLWFra2EvY2g4L3NjYWxhLWFra2EtY2hhdC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUTm2FjP3S6bFg8aVBxNdwdUCaF6I=
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCCGgLgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDlWCkHQABm5vdGlmeXNxAH4ADKFYsEp0AAR3YWl0c3EAfgAM07WxQ3QADmNvcHkkZGVmYXVsdCQyc3EAfgAMjS97MXQADSRhc0luc3RhbmNlT2ZzcQB+AAzu2CY7dAAMcHJvZHVjdEFyaXR5c3EAfgAMsx+4a3QABmVxdWFsc3NxAH4ADML+Ypx0AAh1c2VybmFtZXNxAH4ADDYnyj90AARsaW5lc3EAfgAMa0GR0XQADGFzSW5zdGFuY2VPZnNxAH4ADKW5x6R0AAxzeW5jaHJvbml6ZWRzcQB+AAythRRSdAANJGlzSW5zdGFuY2VPZnNxAH4ADJ4pGah0AAd1c2VyUmVmc3EAfgAMD0msvHQADlBvc3RUb0NoYXRyb29tc3EAfgAMNRwpX3QACGNhbkVxdWFsc3EAfgAMmF2JXnQADXByb2R1Y3RQcmVmaXhzcQB+AAxtMy4YdAAMSm9pbkNoYXRyb29tc3EAfgAMd1lk+nQACW5vdGlmeUFsbHNxAH4ADGQHAj90AAxpc0luc3RhbmNlT2ZzcQB+AAwAWHoEdAAGPGluaXQ+c3EAfgAMhR/VkHQAAj09c3EAfgAMDAnn/XQABWNsb25lc3EAfgAMXlvhhnQABiRpbml0JHNxAH4ADLWHbnZ0AARjb3B5c3EAfgAMIFGQnnQACHRvU3RyaW5nc3EAfgAMPD7LhXQAAiE9c3EAfgAMyZ5F5XQACGdldENsYXNzc3EAfgAM7t4H2nQADmNvcHkkZGVmYXVsdCQxc3EAfgAM86gEtnQAAm5lc3EAfgAMRjoZZXQAAmVxc3EAfgAMxS+V7XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADLIspSd0AAIjI3NxAH4ADC0H8Ml0AAhmaW5hbGl6ZXNxAH4ADAnHWPZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADLzGb2V0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABljb20uYWtrYWNoYXQuSm9pbkNoYXRyb29tdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AW0wACWluaGVyaXRlZHEAfgBbTAAHcGFyZW50c3EAfgBbeHEAfgB4c3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHd0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJFzcQB+AIRxAH4Ah3NxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJB0AARqYXZhc3EAfgCQdAACaW9xAH4AlXNxAH4AhHQAB1Byb2R1Y3RxAH4AinNxAH4AhHQABkVxdWFsc3EAfgCKc3EAfgCEdAAGT2JqZWN0c3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHEAfgCbc3EAfgCQdAAEbGFuZ3EAfgCVc3EAfgCEdAADQW55cQB+AIpzcQB+AFhxAH4AZXVxAH4AZgAAAABzcQB+AGgAdAAbY29tLmFra2FjaGF0LlBvc3RUb0NoYXRyb29tdXEAfgBrAAAAAHEAfgBvdXEAfgBxAAAAAHNxAH4Ac3EAfgB5c3EAfgBzc3EAfgB7c3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cQB+AIIAAAAGc3EAfgCEcQB+AIdzcQB+AIhzcQB+AIt1cQB+AI4AAAACc3EAfgCQcQB+AJNxAH4AlXNxAH4AhHEAfgCHc3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHEAfgCbc3EAfgCQdAACaW9xAH4AlXNxAH4AhHEAfgCfcQB+ALxzcQB+AIR0AAZFcXVhbHNxAH4AvHNxAH4AhHEAfgCjc3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHEAfgCbc3EAfgCQcQB+AKlxAH4AlXNxAH4AhHEAfgCrcQB+ALx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AANjb21zcQB+ANN0AAxjb20uYWtrYWNoYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV4kFgtddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUi9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDgvc2NhbGEtYWtrYS1jaGF0L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQYeixBon+htM1v7+59jdUkMyQB0w==
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrrwnrwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwv1aQPnQABm5vdGlmeXNxAH4ADO7tw6J0AAVhY3RvcnNxAH4ADKYG0ZV0AARuYW1lc3EAfgAMfqewaXQABHdhaXRzcQB+AAwuBiTJdAAOY29weSRkZWZhdWx0JDJzcQB+AAy/URrtdAANJGFzSW5zdGFuY2VPZnNxAH4ADKjcUhl0AAxwcm9kdWN0QXJpdHlzcQB+AAx8Aff5dAAGZXF1YWxzc3EAfgAMURB4bnQADGFzSW5zdGFuY2VPZnNxAH4ADGZPojl0AAxzeW5jaHJvbml6ZWRzcQB+AAz7K3xvdAANJGlzSW5zdGFuY2VPZnNxAH4ADNL3RSt0AAhjYW5FcXVhbHNxAH4ADFL48050AA1wcm9kdWN0UHJlZml4c3EAfgAMVefosHQACW5vdGlmeUFsbHNxAH4ADH4Qtw10AAxpc0luc3RhbmNlT2ZzcQB+AAzCc4wOdAAGPGluaXQ+c3EAfgAMihdbK3QAAj09c3EAfgAMO13giHQABWNsb25lc3EAfgAMM6i5GnQABiRpbml0JHNxAH4ADIshqMV0AARjb3B5c3EAfgAMusGRWXQACHRvU3RyaW5nc3EAfgAMOsJmxnQAAiE9c3EAfgAMsxWuznQACGdldENsYXNzc3EAfgAMktatfXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMtNEIW3QAAm5lc3EAfgAMJPODNHQAAmVxc3EAfgAMffHjd3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJyIbn10AAdVc2VyUmVmc3EAfgAMm1RgJnQAAiMjc3EAfgAM/D92CHQACGZpbmFsaXplc3EAfgAMFyMfBXQADnByb2R1Y3RFbGVtZW50c3EAfgAMU7M+a3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFGNvbS5ha2thY2hhdC5Vc2VyUmVmdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB0c3EAfgBvdXEAfgBSAAAAAHNxAH4Ab3VxAH4AUgAAAABzcQB+AG91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AIBxAH4Ag3NxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIx0AARqYXZhc3EAfgCMdAACaW9xAH4AkXNxAH4AgHQAB1Byb2R1Y3RxAH4AhnNxAH4AgHQABkVxdWFsc3EAfgCGc3EAfgCAdAAGT2JqZWN0c3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHEAfgCXc3EAfgCMdAAEbGFuZ3EAfgCRc3EAfgCAdAADQW55cQB+AIZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AANjb21zcQB+AKp0AAxjb20uYWtrYWNoYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV4kFgtddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUi9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDgvc2NhbGEtYWtrYS1jaGF0L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRoZqo36je51onrCizeKHwZ5usgBQ==
+external apis:
+0 items
+source infos:
+3 items
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Chatroom.scala -> 
+AAAAAAAAAAA=
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/Messages.scala -> 
+AAAAAAAAAAA=
+/Users/hominchun/ex_ws/learning-akka/ch8/scala-akka-chat/src/main/scala/com/akkachat/UserRef.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXiQWC111cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDgvc2NhbGEtYWtrYS1jaGF0L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

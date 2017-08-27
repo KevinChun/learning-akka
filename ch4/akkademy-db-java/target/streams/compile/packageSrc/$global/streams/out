@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/target/scala-2.12/akkademy-db-java_2.12-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/akkademy/AkkademyDb.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/AkkademyDb.java[0m
+[0m[[0mdebug[0m] [0m	com/akkademy/messages/GetRequest.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/GetRequest.java[0m
+[0m[[0mdebug[0m] [0m	com/akkademy/messages/KeyNotFoundException.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/KeyNotFoundException.java[0m
+[0m[[0mdebug[0m] [0m	com/akkademy/Main.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/Main.java[0m
+[0m[[0mdebug[0m] [0m	com/akkademy/messages/SetRequest.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/SetRequest.java[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/resources/application.conf[0m
+[0m[[0mdebug[0m] [0m	com/akkademy/messages/Connected.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Connected.java[0m
+[0m[[0mdebug[0m] [0m	com/akkademy/messages/Request.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/hominchun/ex_ws/learning-akka/ch4/akkademy-db-java/src/main/java/com/akkademy/messages/Request.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

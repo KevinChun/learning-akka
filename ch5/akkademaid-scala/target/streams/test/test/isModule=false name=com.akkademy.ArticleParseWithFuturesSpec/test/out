@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mArticleParseWithFuturesSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mArticleParser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should do work concurrently with futures[0m[0m

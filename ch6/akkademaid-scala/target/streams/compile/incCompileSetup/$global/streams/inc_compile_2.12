@@ -1,0 +1,315 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+11 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/Main$.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/Main$delayedInit$body.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/Main.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ArticleParseActor$$anonfun$receive$1.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ArticleParseActor.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ArticleParser$.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ArticleParser.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ClusterController$$anonfun$receive$1.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ClusterController.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ParseArticle$.class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ParseArticle.class
+binary dependencies:
+14 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-cluster-tools_2.12/jars/akka-cluster-tools_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/hominchun/.ivy2/cache/com.syncthemall/boilerpipe/jars/boilerpipe-1.2.2.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> /Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-cluster_2.12/jars/akka-cluster_2.12-2.5.4.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> /Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> /Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+11 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> com.akkademy.Main
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> com.akkademy.Main$
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> com.akkademy.Main$delayedInit$body
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com.akkademy.ArticleParseActor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com.akkademy.ArticleParseActor$$anonfun$receive$1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com.akkademy.ArticleParser
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com.akkademy.ArticleParser$
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> com.akkademy.ClusterController
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> com.akkademy.ClusterController$$anonfun$receive$1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> com.akkademy.ParseArticle
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> com.akkademy.ParseArticle$
+used names:
+172 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Actor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> ActorRef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> ActorSystem
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Any
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> App
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> ArticleParseActor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> BalancingPool
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> ClassTag
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> ClusterClientReceptionist
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> ClusterController
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Int
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Main
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Nothing
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Object
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Props
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> String
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> SupervisorStrategy
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> T
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> Unit
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> _$7
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> actor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> actorOf
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> akka
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> akkademy
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> apply
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> client
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> cluster
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> clusterController
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> materializeClassTag
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> props
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> reflect
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> registerService
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> routing
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> system
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> workers
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> !
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> A1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> AbstractPartialFunction
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Actor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> ActorRef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Any
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> AnyRef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> ArticleExtractor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> ArticleParseActor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> ArticleParser
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> B1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Boolean
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Function1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> INSTANCE
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Nothing
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Object
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Receive
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> ScalaActorRef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> String
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> T0
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Unit
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> actor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> actorRef2Scala
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> akka
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> akkademy
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> apply
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> asInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> body
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> boilerpipe
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> de
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> extractors
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> getText
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> html
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> isInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> l3s
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> println
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> self
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> sender
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> unchecked
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> <repeated>
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> A1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> AbstractPartialFunction
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Actor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> ActorContext
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> ActorRef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> ActorSystem
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Any
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> B1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Boolean
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Class
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Cluster
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> ClusterController
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> ClusterEvent
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Function1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> LogSource
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Logging
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> LoggingAdapter
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> MemberEvent
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Nothing
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Object
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> String
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> T
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> T0
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> Unit
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> UnreachableMember
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> _$1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> actor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> akka
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> akkademy
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> apply
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> asInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> cluster
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> context
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> event
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> fromActor
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> info
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> isInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> log
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> self
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> subscribe
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> system
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> unchecked
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> unsubscribe
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> &&
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> <init>
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> ==
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> A
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> AbstractFunction1
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Any
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> AnyRef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Boolean
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> IndexOutOfBoundsException
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Int
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Iterator
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> None
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Nothing
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Object
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Option
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> ParseArticle
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Predef
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Product
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> ScalaRunTime
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Serializable
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> Some
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> String
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> T
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> T0
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> _hashCode
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> _root_
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> _toString
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> akkademy
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> asInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> com
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> eq
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> htmlString
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> isInstanceOf
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> package
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> runtime
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> scala
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> toString
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> typedProductIterator
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> ||
+product stamps:
+11 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ArticleParseActor$$anonfun$receive$1.class -> lastModified(1503841227000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ArticleParseActor.class -> lastModified(1503841227000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ArticleParser$.class -> lastModified(1503841227000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ArticleParser.class -> lastModified(1503841227000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ClusterController$$anonfun$receive$1.class -> lastModified(1503841194000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ClusterController.class -> lastModified(1503841194000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/Main$.class -> lastModified(1503841194000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/Main$delayedInit$body.class -> lastModified(1503841194000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/Main.class -> lastModified(1503841194000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ParseArticle$.class -> lastModified(1503841194000)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/target/scala-2.12/classes/com/akkademy/ParseArticle.class -> lastModified(1503841194000)
+source stamps:
+4 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> hash(725cd2bc3fcbd0aa44e6b06ffb1bfe98589d5b1f)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> hash(66e59d1811eaafd6807da3a48bfe7a913d3c3496)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> hash(6d8813978ac62d5e6d56caac8aa859fa74ad30dc)
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> hash(2acac61650dac2aebccb0cf66d98d3758f6a0921)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/hominchun/.ivy2/cache/com.syncthemall/boilerpipe/jars/boilerpipe-1.2.2.jar -> lastModified(1395372808000)
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar -> lastModified(1502371060000)
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-cluster-tools_2.12/jars/akka-cluster-tools_2.12-2.5.4.jar -> lastModified(1502371620000)
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-cluster_2.12/jars/akka-cluster_2.12-2.5.4.jar -> lastModified(1502371576000)
+/Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/hominchun/.ivy2/cache/com.syncthemall/boilerpipe/jars/boilerpipe-1.2.2.jar -> de.l3s.boilerpipe.extractors.ArticleExtractor
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.4.jar -> akka.actor.Actor
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-cluster-tools_2.12/jars/akka-cluster-tools_2.12-2.5.4.jar -> akka.cluster.client.ClusterClientReceptionist$
+/Users/hominchun/.ivy2/cache/com.typesafe.akka/akka-cluster_2.12/jars/akka-cluster_2.12-2.5.4.jar -> akka.cluster.Cluster$
+/Users/hominchun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.runtime.AbstractPartialFunction
+internal apis:
+4 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+E/7dwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw/pRUtXQABm5vdGlmeXNxAH4ADEGNhbN0AAR3YWl0c3EAfgAMGRJcWXQADSRhc0luc3RhbmNlT2ZzcQB+AAzw6Ux5dAAGc3lzdGVtc3EAfgAMKyRh8XQABmVxdWFsc3NxAH4ADOUtg+h0AAxhc0luc3RhbmNlT2ZzcQB+AAz8TBRsdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwOIwRddAAHd29ya2Vyc3NxAH4ADKJQAXp0AAxzeW5jaHJvbml6ZWRzcQB+AAwo8nSXdAANJGlzSW5zdGFuY2VPZnNxAH4ADMpUZlh0AARtYWluc3EAfgAMv4zRwHQACW5vdGlmeUFsbHNxAH4ADB8t3eJ0AAxpc0luc3RhbmNlT2ZzcQB+AAyF4/LgdAACPT1zcQB+AAw65gTwdAAFY2xvbmVzcQB+AAxDxE2KdAAGJGluaXQkc3EAfgAM23d/jHQABE1haW5zcQB+AAx3+QbGdAAIdG9TdHJpbmdzcQB+AAzKqZ7edAAEYXJnc3NxAH4ADNZitaR0AAIhPXNxAH4ADJEc3VR0AAhnZXRDbGFzc3NxAH4ADG+8IYR0AAJuZXNxAH4ADP4gt310ABFjbHVzdGVyQ29udHJvbGxlcnNxAH4ADBeAGW10AAJlcXNxAH4ADCoRwEJ0AAtkZWxheWVkSW5pdHNxAH4ADKlhoXp0AAIjI3NxAH4ADMD6+tp0AAhmaW5hbGl6ZXNxAH4ADIP8ob90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABFjb20uYWtrYWRlbXkuTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AG5zcQB+AGl1cQB+AEoAAAAAc3EAfgBpdXEAfgBKAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBQcQB+AFl1cQB+AFoAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB4eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AknNxAH4AXABxAH4AI3VxAH4AXwAAAABzcQB+AIV0AARVbml0cQB+AIt1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB4eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBidAAFUGxhaW5xAH4AM3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AbXNxAH4AhXQABUFycmF5cQB+AIt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AhXQABlN0cmluZ3NxAH4AiXNxAH4AjHVxAH4AjwAAAANzcQB+AJF0AARqYXZhc3EAfgCRdAAEbGFuZ3EAfgCWc3EAfgBpdXEAfgCtAAAABHNxAH4AhXQAA0FwcHEAfgCLc3EAfgCFdAALRGVsYXllZEluaXRxAH4Ai3NxAH4AhXQABk9iamVjdHEAfgCxc3EAfgCFdAADQW55cQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAxjb20uYWtrYWRlbXlzcQB+AMR0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV4j64fhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUy9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDYvYWtrYWRlbWFpZC1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUclzSvD/L0KpE5rBv+xv+mFidWx8=
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjWA1ewAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCkTqH+dAAEc2VsZnNxAH4AC2oCESF0AAdjb250ZXh0dXEAfgAJAAAAJnNxAH4AC8w3CJl0AAZub3RpZnlzcQB+AAs6cD/ydAANQXJ0aWNsZVBhcnNlcnNxAH4ACyH1ejZ0AAdSZWNlaXZlc3EAfgAL9OLDmHQABHdhaXRzcQB+AAsfx39fdAANJGFzSW5zdGFuY2VPZnNxAH4AC3dA0hl0AAZlcXVhbHNzcQB+AAts75WIdAAMYXNJbnN0YW5jZU9mc3EAfgAL1OQayHQAEUFydGljbGVQYXJzZUFjdG9yc3EAfgALgnaw3XQADHN5bmNocm9uaXplZHNxAH4AC6K6RoV0AA0kaXNJbnN0YW5jZU9mc3EAfgALRr4UEHQAB3JlY2VpdmVzcQB+AAsH/aSVdAAKcHJlUmVzdGFydHNxAH4ACxGvP6J0AA1hcm91bmRSZWNlaXZlc3EAfgAL1e3Uw3QAC3Bvc3RSZXN0YXJ0c3EAfgAL43RXOXQACHBvc3RTdG9wc3EAfgALddWLzXQACW5vdGlmeUFsbHNxAH4AC/MZehB0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC9DjmCl0AAxpc0luc3RhbmNlT2ZzcQB+AAsA3ezrdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC7E127p0AA5hcm91bmRQb3N0U3RvcHNxAH4AC0wQoDB0AAY8aW5pdD5zcQB+AAvoGoWXdAAIcHJlU3RhcnRzcQB+AAs9Iao4dAAJdW5oYW5kbGVkc3EAfgALE/RjQXQABWFwcGx5c3EAfgALtjKQ1XQAAj09c3EAfgAL5n3l/nQABWNsb25lc3EAfgALUfYrX3QABiRpbml0JHNxAH4ACxIH5cV0AAZzZW5kZXJzcQB+AAtJAaPqdAAIdG9TdHJpbmdzcQB+AAvtJ32adAACIT1zcQB+AAvGjnQ0dAAIZ2V0Q2xhc3NzcQB+AAu/aoQzdAACbmVzcQB+AAtqY+K2dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALY5mnhHQAAmVxc3EAfgALRCJ4tXQAAiMjc3EAfgALhn7DqnQACGZpbmFsaXplc3EAfgALdWvuq3QACGhhc2hDb2Rlc3EAfgAL/xgPl3QADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHmNvbS5ha2thZGVteS5BcnRpY2xlUGFyc2VBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB/c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AhHNxAH4Af3VxAH4AYgAAAABzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCDdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AINzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJx0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCdc3EAfgCQdAAGT2JqZWN0c3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHQABGphdmFzcQB+AJx0AARsYW5ncQB+AKNzcQB+AJB0AANBbnlzcQB+AJRzcQB+AJd1cQB+AJoAAAACc3EAfgCcdAAFc2NhbGFxAH4Ao3NxAH4AZHEAfgBxdXEAfgByAAAAAHNxAH4AdAB0ABpjb20uYWtrYWRlbXkuQXJ0aWNsZVBhcnNlcnVxAH4AdwAAAAB+cQB+AHl0AAZNb2R1bGV1cQB+AH0AAAAAc3EAfgB/cQB+AIVzcQB+AH9zcQB+AIdzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AjgAAAAJzcQB+AJBxAH4ApXNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4AqnNxAH4AnHEAfgCscQB+AKNzcQB+AJBxAH4ArnNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4As3EAfgCjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAMY29tLmFra2FkZW15c3EAfgDSdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeI+wHCnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFMvVXNlcnMvaG9taW5jaHVuL2V4X3dzL2xlYXJuaW5nLWFra2EvY2g2L2Fra2FkZW1haWQtc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGblnRgR6q/WgH2jpIv+epE9PDSW
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwo2oBdQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDWFFStdAAEc2VsZnNxAH4AC537lEV0AAdjb250ZXh0dXEAfgAJAAAAJnNxAH4AC4u9sSR0AAZub3RpZnlzcQB+AAvTybJldAAHUmVjZWl2ZXNxAH4AC0R6Bph0AAR3YWl0c3EAfgALVgd3X3QADSRhc0luc3RhbmNlT2ZzcQB+AAsK2JJzdAAGZXF1YWxzc3EAfgALDWAG/nQADGFzSW5zdGFuY2VPZnNxAH4AC1IVQc50ABFDbHVzdGVyQ29udHJvbGxlcnNxAH4ACzzbDsd0AAxzeW5jaHJvbml6ZWRzcQB+AAtCswZ0dAANJGlzSW5zdGFuY2VPZnNxAH4ACxksftl0AAdyZWNlaXZlc3EAfgAL0X9/0HQACnByZVJlc3RhcnRzcQB+AAu9RqCxdAANYXJvdW5kUmVjZWl2ZXNxAH4AC7A/44x0AAtwb3N0UmVzdGFydHNxAH4AC0UAS+Z0AAhwb3N0U3RvcHNxAH4AC3yl4MB0AAlub3RpZnlBbGxzcQB+AAvi8PNudAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtSSKLVdAAMaXNJbnN0YW5jZU9mc3EAfgALaG92xXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsekDz1dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAsig8W/dAAHY2x1c3RlcnNxAH4AC6O6JIt0AAY8aW5pdD5zcQB+AAuui9TIdAAIcHJlU3RhcnRzcQB+AAtPpfPVdAAJdW5oYW5kbGVkc3EAfgALx0eybHQAAj09c3EAfgALvPJn+XQABWNsb25lc3EAfgALYdVGxXQABiRpbml0JHNxAH4AC5YAy150AAZzZW5kZXJzcQB+AAv2s6JfdAAIdG9TdHJpbmdzcQB+AAvJ8gXbdAACIT1zcQB+AAvt+PCYdAAIZ2V0Q2xhc3NzcQB+AAtZTudfdAACbmVzcQB+AAs40XGOdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgAL4OHUHXQAAmVxc3EAfgALDB+DAnQAA2xvZ3NxAH4AC5NIGf10AAIjI3NxAH4AC8oDs/p0AAhmaW5hbGl6ZXNxAH4ACxl75zd0AAhoYXNoQ29kZXNxAH4AC5WHCwV0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB5jb20uYWtrYWRlbXkuQ2x1c3RlckNvbnRyb2xsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Af3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIRzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ag3QABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCDc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCcdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AkHQABk9iamVjdHNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AARqYXZhc3EAfgCcdAAEbGFuZ3EAfgCjc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAxjb20uYWtrYWRlbXlzcQB+ALZ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV4j64fhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUy9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDYvYWtrYWRlbWFpZC1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUbYgTl4rGLV5tVsqsiqhZ+nStMNw=
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgB1XWgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwj/FweHQABm5vdGlmeXNxAH4ADCkvRHh0AAR3YWl0c3EAfgAMgwoHEHQADSRhc0luc3RhbmNlT2ZzcQB+AAzxPiNhdAAMcHJvZHVjdEFyaXR5c3EAfgAMFHjybnQABmVxdWFsc3NxAH4ADPkPkxp0AAxhc0luc3RhbmNlT2ZzcQB+AAyFlTnddAAMc3luY2hyb25pemVkc3EAfgAM8iZMRHQACmh0bWxTdHJpbmdzcQB+AAxBD2o4dAANJGlzSW5zdGFuY2VPZnNxAH4ADIryu950AAhjYW5FcXVhbHNxAH4ADErNVm10AA1wcm9kdWN0UHJlZml4c3EAfgAMuwwX3nQACW5vdGlmeUFsbHNxAH4ADChUFtV0AAxpc0luc3RhbmNlT2ZzcQB+AAz48uJrdAAGPGluaXQ+c3EAfgAM+/cYeXQADFBhcnNlQXJ0aWNsZXNxAH4ADGs8sFR0AAI9PXNxAH4ADKk/WF90AAVjbG9uZXNxAH4ADEG+nD10AAYkaW5pdCRzcQB+AAyBb7yFdAAEY29weXNxAH4ADCsVGsp0AAh0b1N0cmluZ3NxAH4ADOvtxit0AAIhPXNxAH4ADOR3NBV0AAhnZXRDbGFzc3NxAH4ADA8J9lh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADNqQpml0AAJuZXNxAH4ADOZ5UDx0AAJlcXNxAH4ADHYUkKp0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAw0zNXsdAACIyNzcQB+AAxOi6+fdAAIZmluYWxpemVzcQB+AAztgA1UdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAz8lRtFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAZY29tLmFra2FkZW15LlBhcnNlQXJ0aWNsZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBrc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4AcHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBvdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCJc3EAfgB8cQB+AH9zcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIdAAEamF2YXNxAH4AiHQAAmlvcQB+AI1zcQB+AHx0AAdQcm9kdWN0cQB+AIJzcQB+AHx0AAZFcXVhbHNxAH4AgnNxAH4AfHQABk9iamVjdHNxAH4AgHNxAH4Ag3VxAH4AhgAAAANzcQB+AIhxAH4Ak3NxAH4AiHQABGxhbmdxAH4AjXNxAH4AfHQAA0FueXEAfgCCdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAMY29tLmFra2FkZW15c3EAfgCmdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeI+uH4XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFMvVXNlcnMvaG9taW5jaHVuL2V4X3dzL2xlYXJuaW5nLWFra2EvY2g2L2Fra2FkZW1haWQtc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCrKxhZQ2sKuvMsM9m2Y03WPagkh
+external apis:
+0 items
+source infos:
+4 items
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/Akkamaid.scala -> 
+AAAAAAAAAAA=
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> 
+AAAAAAAAAAA=
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ClusterController.scala -> 
+AAAAAAAAAAA=
+/Users/hominchun/ex_ws/learning-akka/ch6/akkademaid-scala/src/main/scala/com/akkademy/ParseArticle.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXiPrh+F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDYvYWtrYWRlbWFpZC1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXiPsBwp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9ob21pbmNodW4vZXhfd3MvbGVhcm5pbmctYWtrYS9jaDYvYWtrYWRlbWFpZC1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==

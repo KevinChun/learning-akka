@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mPingPongActorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Ping actor[0m[0m
+[0m[[0minfo[0m] [0m[32m- must send back a ping on a pong[0m[0m
+[0m[[0minfo[0m] [0m[32mA Pong actor[0m[0m
+[0m[[0minfo[0m] [0m[32m- must send back a pong on a ping[0m[0m
