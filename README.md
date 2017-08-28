@@ -54,6 +54,7 @@ sbt의 Giter8 템플힛에 관한 자세한 내용은 sbt의 공식 문서([여�
 ##### Cluster Client
 아카 클러스터 클라이언트를 구현할 때, application.conf 파일에 명시하던 akka.actor.provider의 값이 각각 아래와 같이 변경 되었습니다.
 > *akka.cluster.ClusterActorRefProvider* -> *cluster*
+
 > *akka.remote.RemoteActorRefProvider* -> *remote*
 
 그리고 `ClusterReceptionistExtension` 클래스는 `ClusterClientReceptionist`로 이름이 변경 되었습니다.
@@ -105,7 +106,7 @@ public class SomeActor extends AbstractActor {
 }
 ```
 
-##### Timeout.longToTimeout deprecated
+##### `Timeout.longToTimeout` deprecated
 Timeout 객체의 longToTimeout 메서드는 아카 2.4 이후로 지원되지 않습니다.
 
 
